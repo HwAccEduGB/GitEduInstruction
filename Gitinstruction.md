@@ -51,4 +51,4 @@ config --global user.email ваша почта@example.com
 **git switch -c nameBranch**
 
 **git checkout -b nameBranch**
-- *По умолчанию будет присвоено имя основной ветки.*
+- *По умолчанию будет присвоено имя основной ветки*
