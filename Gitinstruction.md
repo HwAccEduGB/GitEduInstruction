@@ -1,4 +1,4 @@
-![LOGO](Git-Logo-2Color.png)
+![LOGO](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
 
 ## Работа с Git
 
